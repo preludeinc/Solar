@@ -10,8 +10,8 @@ namespace Solar
         {
             ResistorValue = 100.0;
             Vref = 4.73;                                                    // measured reference voltage on the Arduino
-
         }
+
         public string GetSolarVoltage(int AN0)
         {
             // (analogValue * Vref) divided by the resolution of the ADC (the number steps)
