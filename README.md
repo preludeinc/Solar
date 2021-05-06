@@ -1,1 +1,1 @@
-A circuit is setup to emulate a simple solar power plant. The graphical user interface, written in C#, displays the voltage and currents of the various components. Raw data is sent and received from an Arduino's serial port running a Serial Transfer Protocol. 
+A circuit is setup to emulate a simple solar power plant. The graphical user interface, written in C#, displays the voltage and currents of the various components. Raw data is sent and received from an Arduino's serial port running the Serial Transfer Protocol. 
